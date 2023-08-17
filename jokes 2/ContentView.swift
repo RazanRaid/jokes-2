@@ -29,7 +29,8 @@ struct ContentView: View {
                   
                   Joke (setup: "what do u call a can opener that doesnt work?", punchline: "a can't opener!"),
                   
-                  Joke(setup: "did u hear of the italian chef that died?", punchline: "he pasta-way :( ")
+                  Joke(setup: "did u hear of the italian chef that died?", punchline: "he pasta-way :( "),
+                  Joke(setup: "have u heard of the french cheese factroy explosion?", punchline: "there was nothing left  but de-brie!")
     ]
     
     
